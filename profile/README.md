@@ -1,5 +1,6 @@
 ![Header](../assets/readme_header_gh.png)
 
+----
 
 The repositorys on this site host source code for all the software running on the RISE exoskeletons. Making sure that motors move, sensors sense and controllers can control! 
 
