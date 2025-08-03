@@ -1,4 +1,4 @@
-![Header](../assets/RISE Github Header.png)
+![Header](../assets/rise_github_header.png)
 
 ----
 
