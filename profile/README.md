@@ -2,7 +2,7 @@
 
 
 <h2 align="center">
-  Welcome to the RISE organization - a hub for our exoskeleton soft and hardware!
+  Welcome to the RISE organization - a hub for our exoskeleton resources!
 </h2>
 
 
