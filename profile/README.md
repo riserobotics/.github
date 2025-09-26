@@ -4,7 +4,7 @@
 ## Welcome to the RISE organization - a hub for soft and hardware within the RISE project. 
 
 
-**The RISE project is developing robotic, bipedal exoskeletons for paraplegics and other medical indications.** 
+**The RISE project is developing robotic, bipedal exoskeletons for paraplegics and people with similar medical indications.** 
 
 Here we share and host repositories that contain the code that makes the actuators of our exoskeletons move, the sensors sense and the control loops run. We also host hardware files: PCBs, simulation results, measurement results and final models. 
 
