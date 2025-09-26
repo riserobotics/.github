@@ -1,7 +1,7 @@
 ![Header](../assets/rise_github_header.png)
 
 
-##### Welcome to the RISE organization - a hub for soft and hardware within the RISE project. 
+## Welcome to the RISE organization - a hub for soft and hardware within the RISE project. 
 ----
 **The RISE project is developing robotic, bipedal exoskeletons for paraplegics and other medical indications.** 
 
