@@ -16,4 +16,4 @@ Here you can find useful links to various resources related to the RISE project!
 - [Our Website](https://blogs.tu-berlin.de/mt_rise/en/home/)
 - [Code of conduct](https://github.com/riserobotics/rise-os-core/blob/main/CONTRIBUTING.md)
 - [Internal Documentation](https://riseos-docs-e1325d.gitlab-pages.tu-berlin.de/)
-- [See the exoskeleton in action!](https://cybathlon.com/de/events/video-center)
+- [See RISE EXO 1 in action!](https://cybathlon.com/de/events/video-center)
